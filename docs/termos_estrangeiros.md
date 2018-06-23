@@ -64,14 +64,9 @@ Exemplos:
 
 Caso não exista equivalente na língua portuguesa, não sendo possível traduzir de outra forma o trecho em que a palavra se encontra, use a palavra estrangeira entre aspas na primeira vez em que ela for mencionada na tradução, exceto os estrangeirismos que constem no [Volp][te2] ou no [Manual de Comunicação da Secom][te3], que serão grafados sem aspas.
 
-Exemplo:
-
-> É importante que funcionários recebam feedback de seus gestores.
-
-Caso não exista equivalente na língua portuguesa, não sendo possível traduzir de outra forma o trecho em que a palavra se encontra, repita a palavra estrangeira entre aspas na primeira vez em que ela for mencionada na tradução, exceto os estrangeirismos listados no [Manual de Comunicação da Secom][te3], que são grafados sem aspas. 
-
 Exemplos:
 
+> É importante que funcionários recebam feedback de seus gestores.
 > Eles o consideram um "geek".
 
 No entanto, atenção: não se usam aspas no nome de organizações, empresas, instituições, etc., mesmo que o nome esteja em inglês. Exemplo:
