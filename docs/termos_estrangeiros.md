@@ -67,6 +67,7 @@ Caso não exista equivalente na língua portuguesa, não sendo possível traduzi
 Exemplos:
 
 > É importante que funcionários recebam feedback de seus gestores.
+
 > Eles o consideram um "geek".
 
 No entanto, atenção: não se usam aspas no nome de organizações, empresas, instituições, etc., mesmo que o nome esteja em inglês. Exemplo:
